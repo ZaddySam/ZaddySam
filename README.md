@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning Deep Learning and Javascript
+- 💬 Ask me about Data Science
+- 👯 I’m looking to collaborate on projects involving Data Science, to be more specific- Machine Learning
 
 <!--
 **ZaddySam/ZaddySam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
